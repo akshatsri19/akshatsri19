@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Akshat Srivastava
 
-<!--
-**akshatsri19/akshatsri19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack and blockchain developer passionate about building scalable systems across web, mobile, and decentralized environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Frontend**: React, Angular, Ionic, Swift, Kotlin
+- **Backend**: Node.js, Flask, .NET, Express, Firebase
+- **Blockchain**: Solidity, Hardhat, Aiken, Cardano, ethers.js
+- **Mobile**: React Native, Kotlin (Android), Swift (iOS)
+- **Cloud & DevOps**: AWS, Azure DevOps, GitHub Actions
+
+---
+
+### 🚀 Featured Projects
+- [Blockchain_Capstone](https://github.com/akshatsrivastava/Blockchain_Capstone)
+- [HomeFlavors](https://github.com/akshatsrivastava/HomeFlavors)
+- [CBDC Simulation](https://github.com/akshatsrivastava/CBDC)
+- [PriceConsumer](https://github.com/akshatsrivastava/PriceConsumer)
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/akshatsri19/) • 📧 akshatsri19@gmail.com
