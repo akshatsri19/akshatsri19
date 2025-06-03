@@ -35,6 +35,10 @@
 
 ---
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+---
+
 ### 💼 Featured Projects
 
 - 🪙 **[Blockchain_Capstone](https://github.com/akshatsri19/Blockchain_Capstone)**  
